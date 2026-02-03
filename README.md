@@ -6,6 +6,13 @@ This project provides a comprehensive analysis of the global data professional l
 ---
 ## Dashboard
 ![Data Professional Survey](./dashboard.png)
+
+---
+
+## How to Access
+* **Live Dashboard:** https://app.powerbi.com/reportEmbed?reportId=92864413-f15b-4c25-9773-68008be7981f&autoAuth=true&ctid=244e6ed2-339a-47f3-b95c-e45351c198b7
+* **NB:** Requires authentication
+
 ---
 
 ## Key Features & Visualizations
@@ -29,12 +36,6 @@ To meet the requirements of a production-level data product, I focused on the fo
 * **Power Query (M):** Data transformation and standardization.
 * **Power BI Service:** Public hosting and distribution.
 * **Dataset:** Raw Excel survey data (available in `/dataset` folder).
-
----
-
-## How to Access
-* **Live Dashboard:** https://app.powerbi.com/reportEmbed?reportId=92864413-f15b-4c25-9773-68008be7981f&autoAuth=true&ctid=244e6ed2-339a-47f3-b95c-e45351c198b7
-* **NB:** Requires authentication
 
 ---
 
