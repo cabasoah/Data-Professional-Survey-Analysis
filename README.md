@@ -5,7 +5,7 @@ This project provides a comprehensive analysis of the global data professional l
 
 ---
 ## Dashboard
-![Data Professional Survey](./dashboard.pdf)
+![Data Professional Survey](./dashboard.png)
 ---
 
 ## Key Features & Visualizations
