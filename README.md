@@ -61,7 +61,6 @@ Salaries were collected as bands (for example "41k-65k"). Averages use the midpo
 - Salaries are band midpoints, not exact figures. The top band is capped at 225k.
 - Some groups are small (3 Data Architects, 5 Database Developers), so their averages are unreliable.
 - 224 of 630 respondents (35.6%) chose "Other" for country, which limits any country-level comparison.
-- The country treemap uses Count (Distinct), so every tile is the same size. It should use Count. **TODO:** fix this in the .pbix and re-export dashboard.png.
 - The top salary band (225k+) has only 2 people and the $150k–225k band has 13, so the happiness figures for high earners rest on few answers.
 - Next step: point Power BI at the SQLite tables so the report uses the same two-table model as the SQL.
 
